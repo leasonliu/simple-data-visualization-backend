@@ -9,3 +9,13 @@ export FLASK_APP=simpledatavisualization-backend.py
 
 flask run
 ```
+
+## Database
+
+import the `activity.sql` file into your MySQL database, make sure the configuration of your database is 
+```
+host='localhost'
+user='root'
+password='root'
+name of db='Simple-data-visualization'
+```
