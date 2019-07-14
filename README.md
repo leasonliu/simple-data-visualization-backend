@@ -17,5 +17,5 @@ import the `activity.sql` file into your MySQL database, make sure the configura
 host='localhost'
 user='root'
 password='root'
-name of db='Simple-data-visualization'
+db='Simple-data-visualization'
 ```
